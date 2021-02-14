@@ -1,4 +1,4 @@
-# UIKit_HairyLemonPub
+# UIKit_CurrencyObserverMVP
 # Applied technology: Charts
 
 Аналог биржи с выводом котировок по валютам и графиков
