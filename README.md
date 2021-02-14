@@ -1,1 +1,8 @@
-# UIKit_CurrencyObserver
+# UIKit_HairyLemonPub
+# Applied technology: Charts
+
+Аналог биржи с выводом котировок по валютам и графиков
+# p.s. пришлось отложить, так как пояаилась возможность поработтаь с реальным проектом 
+
+ 
+
